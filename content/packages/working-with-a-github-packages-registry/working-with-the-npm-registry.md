@@ -35,7 +35,7 @@ If you reach this limit, consider deleting package versions or contact Support f
 ## Authenticating to {% data variables.product.prodname_registry %}
 
 {% data reusables.package_registry.authenticate-packages %}
-
+While relevant CLI commands are covered throughout this user documentation, the CLI includes command line help, its own
 {% ifversion packages-npm-v2 %}
 ### Authenticating in a {% data variables.product.prodname_actions %} workflow
 
